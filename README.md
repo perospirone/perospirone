@@ -12,6 +12,8 @@ Programador Web FullStack
 
 ![](https://komarev.com/ghpvc/?username=danitw&color=blue&style=flat)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=danitw)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **danitw/danitw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
