@@ -10,7 +10,7 @@ Programador Web FullStack
   </table>
 </center> 
 
-
+![](https://komarev.com/ghpvc/?username=danitw&color=blue&style=flat
 
 <!--
 **danitw/danitw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
