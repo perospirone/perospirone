@@ -1,5 +1,5 @@
 ## Hi, my name is Daniel de Sá
-Developer
+I'm passionate programmer and my main loves are open source, golang and functional programming
 
 <center>
 <table>
