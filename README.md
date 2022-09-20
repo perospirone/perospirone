@@ -1,4 +1,4 @@
-## Hi, my name is Daniel de Sá
+## Hi, my name is Daniel
 I'm passionate programmer and my main loves are open source, golang, rust and functional programming
 
 <center>
