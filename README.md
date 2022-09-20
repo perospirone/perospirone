@@ -1,5 +1,5 @@
-## Olá, meu nome é Daniel de Sá
-Programador Web FullStack
+## Hi, my name is Daniel de Sá
+Developer
 
 <center>
 <table>
